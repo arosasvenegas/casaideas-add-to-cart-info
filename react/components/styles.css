@@ -1,0 +1,42 @@
+.container {
+  padding: 15px;
+  width: 900px;
+  border-radius: 10px;
+}
+
+.containerItem {
+  margin-bottom: 1px solid #eee;
+  font-size: 18px;
+  color: #696158;
+  font-weight: 400;
+  text-align: center;
+}
+
+.containerItem img {
+  width: 150px;
+}
+
+.containerFooter {
+  margin-top: 10px;
+  font-size: 18px;
+  color: #696158;
+  font-weight: 400;
+}
+
+.containerFooter a,
+button {
+  background-color: #d50032;
+  color: #eee;
+  font-size: 14px;
+  padding: 10px;
+  width: 200px;
+  height: 35px;
+  border: none;
+  margin: 15px;
+  display: flex;
+  flex-direction: row;
+  cursor: pointer;
+  text-decoration: none;
+  text-align: center;
+  font-weight: 700;
+}
