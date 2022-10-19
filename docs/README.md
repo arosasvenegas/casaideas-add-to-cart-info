@@ -1,8 +1,8 @@
 # Add to Cart Info
 
-Componente customizado que muestra informacion adicional, cuando el cliente agrega un nuevo producto al carrito de compras . 
+Componente customizado que muestra informacion adicional del producto, en forma de una ventana emergente, que también tiene la opcion de agregar al carrito. 
 
-![Media Placeholder](https://user-images.githubusercontent.com/52087100/71204177-42ca4f80-227e-11ea-89e6-e92e65370c69.png) ~Agregar imagen de componente quick order ~
+![addtocartinfo](https://user-images.githubusercontent.com/73150391/196823504-e8b6472d-2f66-4990-a2b5-bb07f8bba941.PNG)
 
 ## Configuración 
 
