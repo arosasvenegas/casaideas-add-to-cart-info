@@ -4,13 +4,10 @@ const ButtonGroup = () => {
   return (
     <>
       <div>
-        <a href="/">CHECK OUT</a>
+        <a href="/">CONTINÚA COMPRANDO</a>
       </div>
       <div>
-        <button>CONTINÚA COMPRANDO</button>
-      </div>
-      <div>
-        <a href="/">VER CARRITO</a>
+        <a href="/checkout">VER CARRITO</a>
       </div>
     </>
   )
