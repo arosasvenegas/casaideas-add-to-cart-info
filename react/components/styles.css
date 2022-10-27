@@ -39,4 +39,6 @@ button {
   text-decoration: none;
   text-align: center;
   font-weight: 700;
+  position: relative;
+  left: 320px;
 }
